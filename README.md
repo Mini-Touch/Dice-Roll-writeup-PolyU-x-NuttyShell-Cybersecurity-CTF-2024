@@ -14,7 +14,7 @@ Challenge Description: <br>
 ### Briefly explain
 The game require us to guess the right number for 10 times<br>
 So, we create a Attack contract to predict what the next blockValue <br>
-As first few variable is always the same, what we predict must equal to system number(diceRoll) <br>
+As first few variables are always the same, what we predict must equal to system number(diceRoll) <br>
 --> repeat 10 times(diceRoll == _guess) --> flag <br>
 ### Approach
 
