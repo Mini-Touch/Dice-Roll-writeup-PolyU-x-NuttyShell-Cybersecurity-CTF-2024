@@ -17,10 +17,19 @@ Author 作者: Sunny
 ### Approach
 
 1. Open [Remix - Ethereum IDE](https://remix.ethereum.org/#lang=en&optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.24+commit.e11b9ed9.js)--> open a new .sol file --> copy the code from [Dice Roll](http://chal.polyuctf.com:11337/level/0x0A14079e1215a4758Aa0215B50581A225930f721)
-2. Setup the attack Code
-3. Compile --> change environment --> deploy --> attact
-4. Flag
+[1]:https://github.com/Mini-Touch/Dice-Roll-writeup-PolyU-x-NuttyShell-Cybersecurity-CTF-2024/blob/main/Png%20Folder/add_attack.png?raw=true
 
+3. Setup the attack Code
+[1]:[https://github.com/Mini-Touch/Dice-Roll-writeup-PolyU-x-NuttyShell-Cybersecurity-CTF-2024/blob/main/Png%20Folder/add_attack.png](https://github.com/Mini-Touch/Dice-Roll-writeup-PolyU-x-NuttyShell-Cybersecurity-CTF-2024/blob/main/Png%20Folder/copy.png)](https://github.com/Mini-Touch/Dice-Roll-writeup-PolyU-x-NuttyShell-Cybersecurity-CTF-2024/blob/main/Png%20Folder/copy.png)
+
+5. Compile --> change environment --> deploy --> attact
+[1]:https://github.com/Mini-Touch/Dice-Roll-writeup-PolyU-x-NuttyShell-Cybersecurity-CTF-2024/blob/main/Png%20Folder/deploy.png
+
+7. Flag
+
+https://github.com/Mini-Touch/Dice-Roll-writeup-PolyU-x-NuttyShell-Cybersecurity-CTF-2024/blob/main/Png%20Folder/enter_10times.png?raw=true
+
+https://github.com/Mini-Touch/Dice-Roll-writeup-PolyU-x-NuttyShell-Cybersecurity-CTF-2024/blob/main/Png%20Folder/flag.png?raw=true
 
 ### Flag
 Flag: PUCTF24{n0_r3n4omn3ss_1n_bl0ckch41n_vuLptYG7wexbBQ8ZvtYhGU2MdW4uT7po}
